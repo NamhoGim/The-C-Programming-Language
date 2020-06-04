@@ -1,3 +1,7 @@
+# The C Programming Language
+
+<img src="bookcover.png" width="300">
+
 This directory contains the programs from the second edition of "The C
 Programming Language" by Brian Kernighan and Dennis Ritchie.
 
